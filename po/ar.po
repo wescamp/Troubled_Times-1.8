@@ -1,0 +1,580 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wescamp-i 18n\n"
+"Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2010-10-03 12:41+0200\n"
+"PO-Revision-Date: 2010-10-03 12:41+0200\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ar\n"
+
+#. [multiplayer]: id=01_attack_to_elf_city
+#: Troubled_Times/scenarios/01_attack_to_the_elf_city.cfg:5
+msgid "Troubled Times"
+msgstr ""
+
+#. [unit]: type=Elvish High Lord
+#. [message]: type=Elvish High Lord
+#: Troubled_Times/scenarios/01_attack_to_the_elf_city.cfg:92
+#: Troubled_Times/scenarios/01_attack_to_the_elf_city.cfg:113
+msgid "Qinthalash's father"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Troubled_Times/scenarios/01_attack_to_the_elf_city.cfg:106
+msgid ""
+"There was a little elf city deep in the forests. The people were having good "
+"times, but suddenly something happened..."
+msgstr ""
+
+#. [message]: type=Elvish High Lord
+#: Troubled_Times/scenarios/01_attack_to_the_elf_city.cfg:112
+msgid "It is such a nice day today."
+msgstr ""
+
+#. [message]
+#: Troubled_Times/scenarios/01_attack_to_the_elf_city.cfg:150
+msgid "He hee!"
+msgstr ""
+
+#. [message]
+#: Troubled_Times/scenarios/01_attack_to_the_elf_city.cfg:155
+msgid "Noo! You killed my father!"
+msgstr ""
+
+#. [message]
+#: Troubled_Times/scenarios/01_attack_to_the_elf_city.cfg:208
+msgid "And now we are going to kill all of you."
+msgstr ""
+
+#. [objective]: condition=win
+#: Troubled_Times/scenarios/01_attack_to_the_elf_city.cfg:214
+msgid "Kill all orcs"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Troubled_Times/scenarios/09_to_dwarven_caves.cfg:30
+#: Troubled_Times/scenarios/09_to_dwarven_caves.cfg:147
+#: Troubled_Times/scenarios/01_attack_to_the_elf_city.cfg:218
+#: Troubled_Times/scenarios/04_the_mountain.cfg:112
+#: Troubled_Times/scenarios/04_the_mountain.cfg:180
+#: Troubled_Times/scenarios/05_on_the_top_of_the_mountain.cfg:102
+#: Troubled_Times/scenarios/06_the_siege_of_tarqensis.cfg:165
+#: Troubled_Times/scenarios/02_the_castle.cfg:130
+msgid "Death of an elf leader"
+msgstr ""
+
+#. [message]: type=Qinthalash
+#: Troubled_Times/scenarios/01_attack_to_the_elf_city.cfg:236
+msgid "I think they came from the south. We sould go there and take a look."
+msgstr ""
+
+#. [multiplayer]: id=02_the_castle
+#: Troubled_Times/scenarios/02_the_castle.cfg:5
+msgid "Troubled Times - The Castle"
+msgstr ""
+
+#. [message]: type=Qinthalash
+#: Troubled_Times/scenarios/02_the_castle.cfg:80
+msgid "The old castle shouldn't be very far. We should be there soon."
+msgstr ""
+
+#. [objective]: condition=win
+#: Troubled_Times/scenarios/02_the_castle.cfg:85
+msgid "Get to the castle"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Troubled_Times/scenarios/02_the_castle.cfg:89
+msgid "Death of a leader"
+msgstr ""
+
+#. [message]: speaker=unit
+#: Troubled_Times/scenarios/02_the_castle.cfg:109
+msgid "Ok, we are here at last."
+msgstr ""
+
+#. [message]: type=Tervar
+#: Troubled_Times/scenarios/02_the_castle.cfg:113
+msgid "Where did that orc came from?"
+msgstr ""
+
+#. [message]: type=Amiliae
+#: Troubled_Times/scenarios/02_the_castle.cfg:117
+msgid "I don't know, but we should look, if there is more of them out there."
+msgstr ""
+
+#. [message]: type=Qinthalash
+#: Troubled_Times/scenarios/02_the_castle.cfg:121
+msgid "Kill any orc you can see!"
+msgstr ""
+
+#. [objective]: condition=win
+#: Troubled_Times/scenarios/02_the_castle.cfg:126
+msgid "Kill the orc leaders"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Troubled_Times/scenarios/02_the_castle.cfg:143
+msgid "You hear wolves howling."
+msgstr ""
+
+#. [message]: type=Amiliae
+#: Troubled_Times/scenarios/02_the_castle.cfg:148
+msgid "I think we should hurry up."
+msgstr ""
+
+#. [message]: type=Tervar
+#: Troubled_Times/scenarios/02_the_castle.cfg:235
+msgid "What should we do now?"
+msgstr ""
+
+#. [message]: type=Qinthalash
+#: Troubled_Times/scenarios/02_the_castle.cfg:239
+msgid "Let's go to Tarq'ensis and find out what is really going on."
+msgstr ""
+
+#. [multiplayer]: id=03_tarqensis
+#: Troubled_Times/scenarios/03_tarqensis.cfg:5
+msgid "Troubled Times - Tarq'ensis"
+msgstr ""
+
+#. [message]: type=Tervar
+#: Troubled_Times/scenarios/03_tarqensis.cfg:94
+msgid "Now we are here at Tarq'ensis, the grand capital of elves."
+msgstr ""
+
+#. [message]: type=Qinthalash
+#: Troubled_Times/scenarios/03_tarqensis.cfg:98
+msgid "Hello there! I'm Qinthalash. We came from the east."
+msgstr ""
+
+#. [message]: type=Elvish High Lord
+#: Troubled_Times/scenarios/03_tarqensis.cfg:102
+#: Troubled_Times/scenarios/03_tarqensis.cfg:111
+#: Troubled_Times/scenarios/03_tarqensis.cfg:188
+msgid "Elvish High Lord"
+msgstr ""
+
+#. [message]: type=Elvish High Lord
+#: Troubled_Times/scenarios/03_tarqensis.cfg:103
+msgid "Nice to see you. I think I know your father."
+msgstr ""
+
+#. [message]: type=Qinthalash
+#: Troubled_Times/scenarios/03_tarqensis.cfg:107
+msgid ""
+"Yes, he died.. He was killed by the orcs. We have spotted lots of them "
+"lately."
+msgstr ""
+
+#. [message]: type=Elvish High Lord
+#: Troubled_Times/scenarios/03_tarqensis.cfg:112
+msgid "Oh, that's sad..."
+msgstr ""
+
+#. [message]: type=Qinthalash
+#: Troubled_Times/scenarios/03_tarqensis.cfg:116
+msgid "We need some reinforcements so we can fight against the orcs."
+msgstr ""
+
+#. [message]: type=Elvish Hero
+#: Troubled_Times/scenarios/03_tarqensis.cfg:120
+msgid "Ok, we have some unit for your use."
+msgstr ""
+
+#. [message]: type=Elvish High Lord
+#: Troubled_Times/scenarios/03_tarqensis.cfg:189
+msgid ""
+"Maybe you could help the woses. They asked for militaristic help as soon as "
+"possible."
+msgstr ""
+
+#. [message]: type=Qinthalash
+#: Troubled_Times/scenarios/03_tarqensis.cfg:193
+msgid "Maybe we could, but we don't know where the woses live."
+msgstr ""
+
+#. [message]: type=Elvish Hero
+#: Troubled_Times/scenarios/03_tarqensis.cfg:197
+msgid "One of my scouts will lead you there."
+msgstr ""
+
+#. [message]: type=Amiliae
+#: Troubled_Times/scenarios/03_tarqensis.cfg:201
+msgid "Let's hurry then."
+msgstr ""
+
+#. [message]: type=Elvish Shyde
+#: Troubled_Times/scenarios/03_tarqensis.cfg:205
+msgid ""
+"Wait. We have an altar that can help you with developing skills. Maybe you "
+"should try to use it."
+msgstr ""
+
+#. [objective]: condition=win
+#: Troubled_Times/scenarios/03_tarqensis.cfg:211
+msgid "Visit the altar"
+msgstr ""
+
+#. [message]: type=Qinthalash
+#: Troubled_Times/scenarios/03_tarqensis.cfg:242
+msgid "Now let's get moving."
+msgstr ""
+
+#. [multiplayer]: id=04_the_mountain
+#: Troubled_Times/scenarios/04_the_mountain.cfg:5
+msgid "Troubled Times - The mountain"
+msgstr ""
+
+#. [side]: type=Ancient Wose
+#: Troubled_Times/scenarios/04_the_mountain.cfg:45
+msgid "Ancient Wose"
+msgstr ""
+
+#. [objective]: condition=win
+#: Troubled_Times/scenarios/04_the_mountain.cfg:108
+msgid "Find the woses"
+msgstr ""
+
+#. [message]
+#: Troubled_Times/scenarios/04_the_mountain.cfg:121
+msgid ""
+"We just arrived to the north part of the land of woses. There are drakes on "
+"the mountain. I need to go back to Tarq'ensis, but don't worry. The woses "
+"will help you."
+msgstr ""
+
+#. [message]: type=Tervar
+#: Troubled_Times/scenarios/04_the_mountain.cfg:137
+msgid "Let's move on."
+msgstr ""
+
+#. [message]: id=wose1
+#: Troubled_Times/scenarios/04_the_mountain.cfg:156
+msgid "Are you elves?"
+msgstr ""
+
+#. [message]: type=Tervar
+#: Troubled_Times/scenarios/04_the_mountain.cfg:161
+msgid "Yes, we are."
+msgstr ""
+
+#. [message]: id=wose1
+#: Troubled_Times/scenarios/04_the_mountain.cfg:165
+msgid "We thought that nobody is coming to help us."
+msgstr ""
+
+#. [message]: type=Amiliae
+#: Troubled_Times/scenarios/04_the_mountain.cfg:170
+msgid "I'm sorry that we couldn't come any earlier."
+msgstr ""
+
+#. [objective]: condition=win
+#: Troubled_Times/scenarios/04_the_mountain.cfg:176
+msgid "Kill the drake leader"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Troubled_Times/scenarios/04_the_mountain.cfg:184
+#: Troubled_Times/scenarios/05_on_the_top_of_the_mountain.cfg:106
+msgid "Death of the Ancient Wose"
+msgstr ""
+
+#. [message]
+#: Troubled_Times/scenarios/04_the_mountain.cfg:197
+msgid "Did you hear that we are getting lots of reinforcements soon?"
+msgstr ""
+
+#. [message]: type=Qinthalash
+#: Troubled_Times/scenarios/04_the_mountain.cfg:262
+#: Troubled_Times/scenarios/05_on_the_top_of_the_mountain.cfg:121
+msgid "Oh no! The Ancient Wose has died.."
+msgstr ""
+
+#. [message]
+#: Troubled_Times/scenarios/04_the_mountain.cfg:277
+msgid ""
+"Thanks for your help. There are more drakes on other side of that mountain. "
+"Could you kill them?"
+msgstr ""
+
+#. [message]: type=Qinthalash
+#: Troubled_Times/scenarios/04_the_mountain.cfg:282
+msgid "That's why we are here."
+msgstr ""
+
+#. [multiplayer]: id=05_on_the_top_of_the_mountain
+#: Troubled_Times/scenarios/05_on_the_top_of_the_mountain.cfg:6
+msgid "Troubled Times - On the top of the Mountain"
+msgstr ""
+
+#. [objective]: condition=win
+#: Troubled_Times/scenarios/05_on_the_top_of_the_mountain.cfg:98
+msgid "Kill the drake leaders"
+msgstr ""
+
+#. [message]
+#: Troubled_Times/scenarios/05_on_the_top_of_the_mountain.cfg:132
+msgid "Thanks for help again. I will give my full army for you use."
+msgstr ""
+
+#. [message]: type=Tervar
+#: Troubled_Times/scenarios/05_on_the_top_of_the_mountain.cfg:137
+msgid ""
+"One of the scouts just told me that there is a critical situation on "
+"Tarq'ensis."
+msgstr ""
+
+#. [message]: type=Qinthalash
+#: Troubled_Times/scenarios/05_on_the_top_of_the_mountain.cfg:141
+msgid "Let's go back there!"
+msgstr ""
+
+#. [multiplayer]: id=06_the_siege_of_tarqensis
+#: Troubled_Times/scenarios/06_the_siege_of_tarqensis.cfg:6
+msgid "Troubled Times - The Siege of Tarq'ensis"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Troubled_Times/scenarios/06_the_siege_of_tarqensis.cfg:138
+msgid "Our party get back to Tarq'ensis"
+msgstr ""
+
+#. [message]
+#: Troubled_Times/scenarios/06_the_siege_of_tarqensis.cfg:143
+msgid "Good you get back so soon"
+msgstr ""
+
+#. [message]
+#: Troubled_Times/scenarios/06_the_siege_of_tarqensis.cfg:147
+msgid "Yes, we did."
+msgstr ""
+
+#. [message]
+#: Troubled_Times/scenarios/06_the_siege_of_tarqensis.cfg:151
+msgid ""
+"Orcs has came here and I am not sure can we kill them if there come more"
+msgstr ""
+
+#. [message]
+#: Troubled_Times/scenarios/06_the_siege_of_tarqensis.cfg:155
+msgid "We'll kill these orcs"
+msgstr ""
+
+#. [objective]: condition=win
+#: Troubled_Times/scenarios/09_to_dwarven_caves.cfg:143
+#: Troubled_Times/scenarios/06_the_siege_of_tarqensis.cfg:161
+msgid "Kill the orcs"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Troubled_Times/scenarios/06_the_siege_of_tarqensis.cfg:169
+msgid "Death of an elf hero"
+msgstr ""
+
+#. [message]: id=elf_lord
+#: Troubled_Times/scenarios/06_the_siege_of_tarqensis.cfg:177
+msgid "thank you"
+msgstr ""
+
+#. [message]
+#: Troubled_Times/scenarios/06_the_siege_of_tarqensis.cfg:193
+msgid ""
+"My lord we know now: thes orcs come shoutwest from highlands. I was there"
+msgstr ""
+
+#. [message]
+#: Troubled_Times/scenarios/06_the_siege_of_tarqensis.cfg:197
+msgid "You are good scout"
+msgstr ""
+
+#. [message]
+#: Troubled_Times/scenarios/06_the_siege_of_tarqensis.cfg:201
+msgid "They have changed weaker I recomend attack to them quick"
+msgstr ""
+
+#. [message]
+#: Troubled_Times/scenarios/06_the_siege_of_tarqensis.cfg:205
+msgid "but where I get so big army that we can win?"
+msgstr ""
+
+#. [message]: type=Qinthalash
+#: Troubled_Times/scenarios/06_the_siege_of_tarqensis.cfg:209
+msgid "We can go to highlands"
+msgstr ""
+
+#. [message]
+#: Troubled_Times/scenarios/06_the_siege_of_tarqensis.cfg:213
+msgid "You will die"
+msgstr ""
+
+#. [message]: type=tervar
+#: Troubled_Times/scenarios/06_the_siege_of_tarqensis.cfg:217
+msgid "Not sure"
+msgstr ""
+
+#. [message]
+#: Troubled_Times/scenarios/06_the_siege_of_tarqensis.cfg:221
+msgid "I'll give some money for you"
+msgstr ""
+
+#. [message]: type=Qinthalash
+#: Troubled_Times/scenarios/06_the_siege_of_tarqensis.cfg:237
+msgid "thanks"
+msgstr ""
+
+#. [multiplayer]: id=07_to_highlands
+#: Troubled_Times/scenarios/07_to_highlands.cfg:6
+msgid "Troubled Times - To Highlands"
+msgstr ""
+
+#. [message]
+#: Troubled_Times/scenarios/07_to_highlands.cfg:56
+msgid "Elves here? Well we get food."
+msgstr ""
+
+#. [message]: speaker=unit
+#: Troubled_Times/scenarios/07_to_highlands.cfg:63
+msgid "we must go on"
+msgstr ""
+
+#. [multiplayer]: id=08_highlands
+#: Troubled_Times/scenarios/08_highlands.cfg:6
+msgid "Troubled Times - Highlands"
+msgstr ""
+
+#. [message]
+#: Troubled_Times/scenarios/08_highlands.cfg:94
+msgid "They spawn from some kind of rock?"
+msgstr ""
+
+#. [message]
+#: Troubled_Times/scenarios/08_highlands.cfg:98
+msgid "Now we'll destory all"
+msgstr ""
+
+#. [message]: type=tervar
+#: Troubled_Times/scenarios/08_highlands.cfg:102
+msgid "Who has made it"
+msgstr ""
+
+#. [message]: speaker=unit
+#: Troubled_Times/scenarios/08_highlands.cfg:123
+msgid "this rock is too huge to move or destory"
+msgstr ""
+
+#. [message]: type=Amiliae
+#: Troubled_Times/scenarios/08_highlands.cfg:127
+msgid "We need the Maul of Elemtrus to destory it"
+msgstr ""
+
+#. [message]: speaker=unit
+#: Troubled_Times/scenarios/08_highlands.cfg:131
+msgid "What it is and where?"
+msgstr ""
+
+#. [message]: type=Amiliae
+#: Troubled_Times/scenarios/08_highlands.cfg:135
+msgid "A Power hammer and somewere in the darwen mountains"
+msgstr ""
+
+#. [message]
+#: Troubled_Times/scenarios/08_highlands.cfg:142
+msgid "maybe we now go to look for the Maul of Elemtrus"
+msgstr ""
+
+#. [multiplayer]: id=09_to_dwarven_caves
+#: Troubled_Times/scenarios/09_to_dwarven_caves.cfg:5
+msgid "Troubled Times - to Dwarven Caves"
+msgstr ""
+
+#. [message]
+#: Troubled_Times/scenarios/09_to_dwarven_caves.cfg:20
+msgid "The party gets to dwarven mountain"
+msgstr ""
+
+#. [objective]: condition=win
+#: Troubled_Times/scenarios/09_to_dwarven_caves.cfg:26
+msgid "Find what is in the caves"
+msgstr ""
+
+#. [message]: speaker=unit
+#: Troubled_Times/scenarios/09_to_dwarven_caves.cfg:121
+msgid "Who goes there?"
+msgstr ""
+
+#. [message]: speaker=second_unit
+#: Troubled_Times/scenarios/09_to_dwarven_caves.cfg:125
+msgid "Elves"
+msgstr ""
+
+#. [message]
+#: Troubled_Times/scenarios/09_to_dwarven_caves.cfg:129
+msgid "What do elves in caves?"
+msgstr ""
+
+#. [message]: type=Qinthalash
+#: Troubled_Times/scenarios/09_to_dwarven_caves.cfg:133
+msgid "We came to looking for the Maul of Elemtrus"
+msgstr ""
+
+#. [message]
+#: Troubled_Times/scenarios/09_to_dwarven_caves.cfg:137
+msgid "I can help you if you help us whit these orcs."
+msgstr ""
+
+#. [message]
+#: Troubled_Times/scenarios/09_to_dwarven_caves.cfg:178
+msgid "Thank you"
+msgstr ""
+
+#. [message]
+#: Troubled_Times/scenarios/09_to_dwarven_caves.cfg:182
+msgid "I have heard that the Maul of Elemtrus is nortwest from here."
+msgstr ""
+
+#. [multiplayer]: id=10_the_maul_of_elementus
+#: Troubled_Times/scenarios/10_the_maul_of_elementus.cfg:7
+msgid "Troubled Times - The Maul of Elementus"
+msgstr ""
+
+#. [message]: type=Tervar
+#: Troubled_Times/scenarios/10_the_maul_of_elementus.cfg:119
+msgid ""
+"The Dwarf said that The Maul of Elementus is north, Garisoned by trolls and "
+"goblins"
+msgstr ""
+
+#. [effect]: id=maulofelementus, type=impact
+#: Troubled_Times/scenarios/10_the_maul_of_elementus.cfg:134
+msgid "The Maul of Elementus"
+msgstr ""
+
+#. [message]: speaker=unit
+#: Troubled_Times/scenarios/10_the_maul_of_elementus.cfg:147
+msgid "I get it. Now we can go to destory the rock and orcs"
+msgstr ""
+
+#. [multiplayer]: id=11_the_last_battle
+#: Troubled_Times/scenarios/11_the_last_battle.cfg:6
+msgid "Troubled Times - The Last Battle"
+msgstr ""
+
+#. [message]: speaker=unit
+#: Troubled_Times/scenarios/11_the_last_battle.cfg:193
+msgid "the rock is destroyed, now we just need to kill the enemies"
+msgstr ""
+
+#. [message]
+#: Troubled_Times/scenarios/11_the_last_battle.cfg:197
+msgid "You demolished my work of years."
+msgstr ""
+
+#. [message]
+#: Troubled_Times/scenarios/11_the_last_battle.cfg:268
+msgid "Now we only need to destory the stone"
+msgstr ""
