@@ -1,0 +1,40 @@
+ CREDITS
+---------
+
+Story
+ - Lauri Niskanen <Ape>
+ - Antti Aalto <Anakonda>
+ - Mikko Rekola <Mreikon>
+
+Technical implementation
+ - Lauri Niskanen <Ape>
+ - Antti Aalto <Anakonda>
+
+Special thanks for everybody helping the make of this campaign!
+ - Testers
+ - Anyone giving ideas or tips
+ - Wesnoth developers
+ - #wesnoth irc channel
+
+--------------------------------#####################################################------------------------------------------------------
+
+I take the freedom to hijack this campaign - trewe :)
+
+CHANGELOG
+
+not a lot to do, here comes it,
+
+- run wmlint
+- fixed bug that caused leaders to not carryover
+- fixed missing quotation marks
+- fixed a lot of typos
+- give enemy some income
+- set up gold carryover for a rpg feel
+
+» status: bugfree and working
+
+- lowered carryover and put no finishing bonus
+- minor tweaks
+ ***
+-minor tweaks
+-uodate translation
