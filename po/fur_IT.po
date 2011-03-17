@@ -9,7 +9,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: fur\n"
+"Language: fur_IT\n"
 
 #. [multiplayer]: id=01_attack_to_elf_city
 #: Troubled_Times/scenarios/01_attack_to_the_elf_city.cfg:5
